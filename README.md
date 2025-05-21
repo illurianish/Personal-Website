@@ -1,8 +1,5 @@
 # 🌐 Anish Reddy Illuri | Personal Portfolio
 
-[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fillurianish.github.io%2Fpersonal-website%2F)](https://illurianish.github.io/personal-website/)
-[![GitHub last commit](https://img.shields.io/github/last-commit/illurianish/personal-website)](https://github.com/illurianish/personal-website/commits/main)
-
 Welcome to my personal portfolio website repository! This site showcases my professional journey, projects, and expertise using modern web technologies.
 
 ## ✨ Live Demo
