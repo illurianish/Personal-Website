@@ -42,13 +42,6 @@ personal-website/
 └── README.md
 ```
 
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishreddyilluri/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/illurianish)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_illuri/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anishreddy.illuri)
-
 ## 🚀 Deployment
 
 This site is deployed using GitHub Pages from the `main` branch. To deploy your own version:
@@ -68,5 +61,5 @@ To use a custom domain (e.g., `illurianish.com`):
 ---
 
 <div align="center">
-  Made with ❤️ by Anish Reddy Illuri
+  Made by Anish Reddy Illuri
 </div>
