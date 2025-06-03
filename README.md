@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository! This site showcases my prof
 
 ## ✨ Live Demo
 
-Visit my portfolio at [illurianish.github.io/personal-website](https://illurianish.github.io/personal-website/)
+Visit my portfolio at [illurianish.com](https://illurianish.github.io/personal-website/)
 
 ## 🎯 Key Features
 
